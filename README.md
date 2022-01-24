@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r-barras
 - 👀 I’m interested in data science, modelation and software development
-- 🌱 I’m currently learning javascript and fullstack
+- 🌱 I’m currently learning more about machine learning, methodologies (AGILE, CRISP-DM) and javascript
 - 💞️ I’m looking to collaborate on interesting projects that may further my knowledge!
 - 📫 Reach me through ricardoaleantbarras@gmail.com
 
